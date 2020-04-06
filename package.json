@@ -1,0 +1,19 @@
+{
+  "name": "federation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "init.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kannana-mitel/federation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kannana-mitel/federation/issues"
+  },
+  "homepage": "https://github.com/kannana-mitel/federation#readme"
+}
